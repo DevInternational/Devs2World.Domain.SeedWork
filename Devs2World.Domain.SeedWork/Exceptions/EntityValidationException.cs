@@ -2,7 +2,7 @@
 
 namespace Devs2World.Domain.SeedWork.Exceptions;
 
-public class EntityValidationException : Exception
+public class EntityValidationException : DomainException
 {
     public IReadOnlyCollection<ValidationError>? Errors { get; }
 
