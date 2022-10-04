@@ -8,10 +8,10 @@
     <Title>Devs2World.Domain.SeedWork</Title>
     <Authors>Devs2World</Authors>
     <Description>SeedWork for a .Net DDD Approach</Description>
-    <PackageReleaseNotes>- Domain events and Validations</PackageReleaseNotes>
+    <PackageReleaseNotes>- Add Domain Exception</PackageReleaseNotes>
 	<PackageId>Devs2World.Domain.SeedWork</PackageId>
 	<PackageTags>DDD, Domain Driven Design, SeedWork</PackageTags>
-	<Version>1.0.1</Version>
+	<Version>1.0.2</Version>
   </PropertyGroup>
 
 </Project>
