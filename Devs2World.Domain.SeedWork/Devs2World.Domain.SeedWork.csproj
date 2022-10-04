@@ -4,6 +4,13 @@
     <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>Devs2World.Domain.SeedWork</Title>
+    <Authors>Devs2World</Authors>
+    <Description>SeedWork for a .Net DDD Approach</Description>
+    <PackageReleaseNotes>- Initial base classes</PackageReleaseNotes>
+	<PackageId>Devs2World.Domain.SeedWork</PackageId>
+	<PackageTags>DDD, Domain Driven Design, SeedWork</PackageTags>
   </PropertyGroup>
 
 </Project>
